@@ -19,7 +19,7 @@ import javax.swing.border.TitledBorder;
 
 /**
  *
- * @author Admin
+ * 
  */
 
 public class LayoutDemo {
